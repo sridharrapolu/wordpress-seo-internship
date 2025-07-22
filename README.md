@@ -11,8 +11,8 @@ Here are some of the articles I worked on:
 
 | No. | Article Title | Link |
 |-----|---------------|------|
-| 1 | Top 10 HealthTech Startups in India | [Read](https://indianewsbulletin.in/top-10-healthtech-startups-in-india/) |
-| 2 | Top 10 Agritech Companies in India | [Read](https://indianewsbulletin.in/cultivating-innovation-top-10-agritech-startups-revolutionizing-farming-in-india/) |
+| 1 |Top 10 Steel Companies In India | [Read](https://indianewsbulletin.in/top-10-steel-companies-in-india/) |
+| 2 | Top 10 Highest paid CEO in India| [Read](https://indianewsbulletin.in/meet-top-10-wealthiest-ceos-in-india/) |
 | 3 | Top 10 CleanTech Startups in India | [Read](https://indianewsbulletin.in/top-10-cleantech-startups-in-india/) |
 | ... | ... | ... |
 
